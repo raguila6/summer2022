@@ -1,3 +1,14 @@
+function test (name){
+
+    
+    console.log("Hello " +name)
+
+}
+
+//test("rafa"); //commented out but if used would push name
+test();
+
+
 function AbiggerthanB (){
 
     let a=5;
