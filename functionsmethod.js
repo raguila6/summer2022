@@ -1,6 +1,6 @@
 function AbiggerthanB (){
 
-    let a=1;
+    let a=5;
     let b=2;
 
     if (a > b){
@@ -9,3 +9,11 @@ function AbiggerthanB (){
 }
 
 AbiggerthanB();
+
+const multiply = (a,b) => {
+
+        const result = a * b;
+    return result;
+}
+
+console.log(multiply(4,5));
