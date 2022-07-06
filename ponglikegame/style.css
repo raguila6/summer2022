@@ -1,0 +1,10 @@
+canvas { background: rgb(240, 186, 8); }
+
+h2 {color: darkred; font-size: large; }
+
+body {position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    border: 5px solid #FFFF00;
+    padding: 10px;
+ }
